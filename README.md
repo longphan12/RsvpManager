@@ -22,7 +22,7 @@ npm i
 npx ts-node src/index.ts
 ```
 
-3. Run tests:
+3. Run Jest Unit Tests:
 ```bash
 npm run test
 ```
