@@ -2,7 +2,7 @@
 
 A simple RSVP management system built with TypeScript.
 
-## Running the project
+## Project structure
 
 - `src/index.ts` - Main entry point of the application. Basic RSVP runs.
 - `src/rsvp/` - Core RSVP functionality. RsvpEntry class is located here and handles all the RSVP functionalities.
@@ -10,7 +10,7 @@ A simple RSVP management system built with TypeScript.
 - `src/utils/` - Utility functions and helpers
 - `src/__tests__/` - Unit tests
 
-## Getting Started
+## Running the project
 
 1. Install dependencies:
 ```bash
